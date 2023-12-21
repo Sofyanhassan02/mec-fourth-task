@@ -1,0 +1,653 @@
+.main{
+    background-image:url("First.jpg") ;
+    height: 665px;
+    background-color:teal;
+}
+ul{
+    text-align: right;
+    text-decoration-line: none;
+    list-style: none;
+    position: relative;
+    bottom: 160px;
+}
+li{
+    display: inline-block;
+}
+
+h1{
+    position: relative;
+    bottom: 90px;
+    left: 150px;
+}
+button{
+    background-color:lime;
+    width: 170px;
+    height: 50px;    
+}
+h4{
+    position: relative;
+    bottom: 80px;
+    left: 145px;
+}
+button.SECOND{
+    background-color: antiquewhite;
+    position: relative;
+    bottom: 70px;
+    left: 135px;
+}
+.choose{
+    position: relative;
+    left: 1000px;
+    bottom: 545px;
+    background-color: white;
+    height: 450px;
+    width: 375px;
+}
+label.month{
+    position: relative;
+    top: 40px;
+    left: 35px;
+}
+select.appear2{
+    position: relative;
+    top: 55px;
+    left: 35px;
+}
+label.amount{
+    position: relative;
+    top: 0px;
+    left: 40px;
+}
+select.appear{
+    position: relative;
+    top: 10px;
+    left: 35px;
+}
+h1.question{
+    position: relative;
+    left: 20px;
+    display: inline-block;
+    top: 10px;
+    color: darkcyan;
+}
+p.cash-loan{
+    position: relative;
+    bottom: 25px;
+    left: 55px;
+    display: inline-block;
+}
+p.payment{
+    position: relative;
+    top: 75px;
+    left: 35px;
+}
+span.currency{
+    color: lightgreen;
+}
+button.confirmation{
+    position: relative;
+    top: 80PX;
+    LEFT: 85px;;
+}
+p.note{
+    position: relative;
+    top: 75px;
+    left: 60px;
+}
+h1.Solutions{
+    position: relative;
+    bottom: 350px;
+    left: 500px;
+    color: green;
+}
+hr.solution{
+    display: inline-block;
+    width: 150px;
+    height: 6px;
+    color: #10c98f;
+    background-color:#10c98f ;
+    position: relative;
+    bottom: 345px;
+    left: 645px;
+
+}
+p.note2{
+    text-align: center;
+    position: relative;
+    bottom: 345px;
+    right: 15px;
+}
+img.home-icon{
+    width: 70px;
+    position: relative;
+    bottom: 270px;
+    left: 125px;
+}
+span.house{
+    position: relative;
+    bottom: 250px;
+    left: 125px;
+}
+h5.firsthome{
+    position: relative;
+    bottom:260px;
+    left: 120px;
+    font-size: 25px;
+    font-family: sans-serif;
+    color: #0f4332;
+}
+p.note3{
+    position: relative;
+    bottom: 275px;
+    left: 115px;
+    font-size: 18px;
+}
+img.cars{
+    width: 70px;
+    position: relative;
+    bottom: 570px;
+    left: 575px;
+}
+span.carss{
+    position: relative;
+    bottom: 565px;
+    left: 565px;
+}
+h5.firstcar{
+    position: relative;
+    bottom:575px;
+    left: 545px;
+    font-size: 25px;
+    font-family: sans-serif;
+    color: #0f4332;
+}
+p.note4{
+    position: relative;
+    bottom: 585px;
+    left: 535px;
+    font-size: 18px;
+}
+img.business1{
+    width: 70px;
+    position: relative;
+    bottom: 875px;
+    left: 1020px;
+}
+span.business2{
+    position: relative;
+    bottom: 875px;
+    left: 1020px;
+}
+h5.business3{
+    position: relative;
+    bottom:900px;
+    left: 990px;
+    font-size: 25px;
+    font-family: sans-serif;
+    color: #0f4332;
+}
+p.business4{
+    position: relative;
+    bottom: 925px;
+    left: 975px;
+    font-size: 18px;
+}
+div.thirdsection{
+    position: relative;
+    bottom: 850px;
+    height: 805px;
+    background-color: #b3f9e3
+    
+}
+img.thirdsectionl{
+    position: relative;
+    left: 125px;
+}
+div.Overpic{
+    background-color: #10c98f;
+    width: 200px;
+    height: 160px;
+    position: relative;
+    bottom: 100px;
+    left: 550px;
+}
+p.overpic2{
+    font-size: 22px;
+    position: relative;
+    top: 5px;
+    
+
+}
+h3.number{
+    font-size: 50px;
+    position: relative;
+    left: 65px;
+    top: 30px;
+    font-family: sans-serif;
+}
+h2.sectionthird{
+    position: relative;
+    bottom: 750px;
+    left: 795px;
+    font-size: 50px;
+    color: darkcyan;
+}
+p.thirdsection2{
+    position: relative;
+    bottom: 750px;
+    left: 790px;
+    font-size: 20px;
+}
+hr.thirdsection4{
+    width: 525px;
+    position: relative;
+    bottom: 740px;
+    left: 295px
+}
+
+h2.one{
+    position: relative;
+    bottom: 700px;
+    left: 800px;
+}
+h2.two{
+    position: relative;
+    bottom: 700px;
+    left: 800px;
+}
+h2.three{
+    position: relative;
+    bottom: 700px;
+    left: 800px;
+}
+button.last{
+    position: relative;
+    bottom: 660px;
+    left: 800px;
+    width: 185px;
+    height: 90px;
+    background-color: aliceblue;
+}
+h1.fourth{
+    text-align: center;
+    position: relative;
+    bottom: 550px;
+    left: 15px;
+    font-size: 60px;
+    color: darkgreen;
+    font-family: sans-serif
+}
+hr.fourthfirst{
+    display: inline-block;
+    width: 150px;
+    height: 6px;
+    color: #10c98f;
+    background-color: #10c98f;
+    position: relative;
+    bottom: 558px;
+    left: 670px;
+}
+p.fourthsecond{
+    text-align: center;
+    position: relative;
+    bottom: 530px;
+    right: 10px;
+    font-size: larger;
+}
+
+div.pics{
+    position: relative;
+    bottom: 500px;
+    left: 680px;
+}
+img.foutrhpic{
+    position: relative;
+    right: 500px;
+    width: 150px;
+}
+img.foutrhpic2{
+    position: relative;
+    right: 355px;
+    width: 150px;
+}
+img.foutrhpic3{
+    position: relative;
+    right: 185px;
+    width: 150px;
+}
+img.foutrhpic4{
+    position: relative;
+    right: 120px;
+    width: 150px;
+}
+h2.fourththird{
+    position: relative;
+    bottom: 500px;
+    left: 200px;
+}
+h2.fourthfourth{
+    position: relative;
+    bottom: 545px;
+    left: 525px;
+}
+h2.fourthfifth{
+    position: relative;
+    bottom:590px;
+    left:835px ;
+}
+h2.fourthsixth{
+    position: relative;
+    bottom: 640px;
+    left: 1040px;
+}
+p.eins{
+    position: relative;
+    bottom: 620px;
+    right: 515px;
+    font-size: larger;
+    text-align: center;
+    font-family: system-ui;
+}
+p.zwei{
+    font-size: larger;
+    text-align: center;
+    position: relative;
+    bottom: 740px;
+    right: 185px;
+    font-family: system-ui;
+}
+p.drei{
+    font-size: larger;
+    text-align: center;
+    position: relative;
+    bottom: 860px;
+    left: 150px;
+    font-family: system-ui;
+}
+p.vier{
+    font-size: larger;
+    text-align: center;
+    position: relative;
+    bottom: 980px;
+    left: 490px;
+    font-family: system-ui;
+}
+div.fifthsection{
+    background-color: #b3f9e3;
+    height: 735px;
+    position: relative;
+    bottom: 900px;
+}
+img.picone{
+    height: 535px;
+    position: relative;
+    top: 50px;
+    left: 800px;
+}
+h2.firsthead{
+    position: relative;
+    bottom: 450px;
+    left: 100px;
+    font-size: xxx-large;
+    font-family: sans-serif;
+    color:darkcyan
+}
+p.firstparagrah{
+    position: relative;
+    bottom: 435px;
+    left: 90px;
+    font-size: larger;
+}
+hr.firstline{
+    position: relative;
+    bottom: 415px;
+    right: 400px;
+    width: 500px;
+}
+img.Monthly{
+    position: relative;
+    bottom: 370px;
+    left: 100px;
+}
+img.Customer{
+    position: relative;
+    bottom: 320px;
+    left: 83px;
+}
+img.Number{
+    position: relative;
+    bottom: 265px;
+    left: 65px;
+}
+h2.title1{
+    position: relative;
+    bottom: 415px;
+    left: 140px;
+}
+h2.title2{
+    position: relative;
+    bottom: 413px;
+    left: 140px;
+}
+h2.title3{
+    position: relative;
+    bottom: 405px;
+    left: 138px;
+}
+button.newbtn{
+    position: relative;
+    bottom: 375px;
+    left: 130px;
+    background: content-box;
+}
+div.sixthdiv{
+    background-color: #0f4332;
+    position: relative;
+    bottom: 925px;
+    height: 400px;
+}
+h1.sixthhead{
+    text-align: center;
+    position: relative;
+    top: 120px;
+    left: 20px;
+    color: aliceblue;
+}
+img.sixthimg{
+    position: relative;
+    top: 120px;
+    left: 330px;
+}
+h2.nameash{
+    position: relative;
+    top: 45px;
+    left: 435px;
+    color: aliceblue;
+}
+p.jobash{
+    position: relative;
+    top: 30px;
+    left: 435px;
+    color: aliceblue;
+}
+h1.firstheader{
+    position: relative;
+    bottom: 850px;
+    left: 635px;
+    color: green;
+}
+hr.firstline2{
+    position: relative;
+    bottom: 850px;
+    width: 125px;
+    right: 35px;
+    color: #10c98f;
+}
+div.swr{
+    position: relative;
+    bottom: 800px;
+    left: 100px;
+}
+p.date{
+    position: relative;
+    bottom: 810px;
+    left: 100px;
+}
+p.date2{
+    position: relative;
+    bottom: 840px;
+    left: 540px;
+}
+p.date3{
+    position: relative;
+    bottom: 875px;
+    left: 965px;
+}
+h1.newtitle1{
+    position: relative;
+    bottom: 875px;
+    left: 100px;
+    font-size: x-large;
+    font-family: sans-serif;
+}
+h1.newtitle2{
+    position: relative;
+    bottom: 945px;
+    left: 550px;
+    font-size: x-large;
+    font-family: sans-serif;
+}
+h1.newtitle3{
+    position: relative;
+    bottom: 1015px;
+    left: 950px;
+    font-size: x-large;
+    font-family: sans-serif;
+}
+p.newnote1{
+    position: relative;
+    bottom: 1000px;
+    left: 90px;
+    font-size: larger;
+}
+p.newnote2{
+    position: relative;
+    bottom: 1085px;
+    left: 530px;
+    font-size: larger;
+}
+p.newnote3{
+    position: relative;
+    bottom: 1170px;
+    left: 950px;
+    font-size: larger;
+}
+div.lastone{
+    background-color: #b3f9e3;
+    position: relative;
+    bottom: 1070px;
+    height: 450px;
+}
+img.lastlogo{
+    position: relative;
+    top: 100px;
+    left: 100px;
+}
+p.lastparagraph{
+    position: relative;
+    top: 100px;
+    left: 100px;
+    font-size: larger;
+}
+h4.lastheader{
+    position: relative;
+    left: 600px;
+    bottom: 50px;
+}
+a.firstlink{
+    position: relative;
+    left: 600px;
+    bottom: 54px;
+}
+a.secondlink{
+    position: relative;
+    left: 558px;
+    bottom: 25px;
+}
+a.thirdlink{
+    position: relative;
+    left: 500px;
+    bottom: 0px;
+}
+a.fourthlink{
+    position: relative;
+    left: 440px;
+    top: 30px;
+}
+h4.lastsecondheader{
+    position: relative;
+    bottom: 130px;
+    left: 800px;
+}
+a.fifthlink{
+    position: relative;
+    bottom: 135px;
+    left: 800px;
+}
+a.sixthlink{
+    position: relative;
+    bottom: 105px;
+    left: 725px;
+}
+a.sevenlink{
+    position: relative;
+    bottom: 70px;
+    left: 635px;
+}
+h2.lastthirdheader{
+    position: relative;
+    bottom: 210px;
+    left: 1035px;
+    font-family: system-ui;
+}
+p.lastsecondparagraph{
+    position: relative;
+    bottom: 220px;
+    left: 1030px;
+    font-size: larger;
+}
+input.emailform{
+    position: relative;
+    bottom: 200px;
+    left: 1025px;
+    height: 65px;
+    width: 235px;
+}
+ul.iconslast{
+    position: relative;
+    bottom: 185px;
+    right: 400px;
+}
+li.elawl{
+    position: relative;
+    right: 12px;
+}
+li.elrabaa{
+    position: relative;
+    left: 20px;
+}
+li.eltalt{
+    position: relative;
+    left: 10px 
+}
+hr.lasteverline{
+    position: relative;
+    bottom: 180px;
+    width: 1200px;
+}
+h4.footer{
+    text-align: center;
+    position: relative;
+    bottom: 165px;
+    left: 10px;
+}
