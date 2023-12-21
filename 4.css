@@ -1,5 +1,5 @@
 .main{
-    background-image:url("First.jpg") ;
+    background-image:url("./First.jpg") ;
     height: 665px;
     background-color:teal;
 }
